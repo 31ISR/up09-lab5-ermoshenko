@@ -36,53 +36,53 @@ python manage.py runserver
 <h2 align="center" id="main"> Главная</h2>
 </br>
 
-<img src="/workspaces/up09-lab5-ermoshenko/lab1/imgs/main.png">
+<img src="lab1/imgs/main.png">
 
  На главной странице пока пусто. В header расположенны ссылки на страницы: Обо мне, Посты, сообщества, регистрации и входа *если пользователь не авторизован* и кнопки создания сообщества и поста, если *пользователь авторизован*
 <a href="#oglav">В оглавление</a>
 <h2 align="Center" id="about-me">Обо мне</h2>
 </br>
-<img src="/workspaces/up09-lab5-ermoshenko/lab1/imgs/about me.png">
+<img src="lab1/imgs/about me.png">
  Информации обо мене нет. Я аноним
 <a href="#oglav">В оглавление</a>
  <h2 align="Center" id="posts">Посты</h2>
 </br>
-<img src="/workspaces/up09-lab5-ermoshenko/lab1/imgs/posts.png">
+<img src="lab1/imgs/posts.png">
  На этой странице отображаются все посты с их названием и описанием
 <a href="#oglav">В оглавление</a>
 <h2 align="Center" id="post">Страница поста</h2>
 </br>
-<img src="/workspaces/up09-lab5-ermoshenko/lab1/imgs/post.png">
+<img src="lab1/imgs/post.png">
 Страница поста. Картинка, кто загрузил, дата загрузки, описание и название
 <a href="#oglav">В оглавление</a>
 <h2 align="Center" id="communities">Сообщества</h2>
 </br>
-<img src="/workspaces/up09-lab5-ermoshenko/lab1/imgs/communities.png">
+<img src="lab1/imgs/communities.png">
  На этой странице отображаются все сообщества с их названием и описанием
 <a href="#oglav">В оглавление</a>
 <h2 align="Center" id="community">Страница сообщества</h2>
 </br>
-<img src="/workspaces/up09-lab5-ermoshenko/lab1/imgs/community.png">
+<img src="lab1/imgs/community.png">
 Страница сообщества. Картинка, кто загрузил, дата загрузки, описание и название
 <a href="#oglav">В оглавление</a>
 <h2 align="Center" id="post-new">Загрузка поста</h2>
 </br>
-<img src="/workspaces/up09-lab5-ermoshenko/lab1/imgs/new post.png">
+<img src="lab1/imgs/new post.png">
 Страница добавления нового поста, где ```title``` - название, ```body``` - описание, ```slug``` - краткое название поста, а ```bannner``` - изображение для поста
 <a href="#oglav">В оглавление</a>
 <h2 align="Center" id="community-new">Загрузка сообщества</h2>
 </br>
-<img src="/workspaces/up09-lab5-ermoshenko/lab1/imgs/new community.png">
+<img src="lab1/imgs/new community.png">
 Страница добавления нового сообщества, где ```name``` - название, ```description``` - описание, ```slug``` - краткое название поста, а ```avatar``` - изображение для сообщества
 <a href="#oglav">В оглавление</a>
 <h2 align="Center" id="register">Страница регистрации</h2>
 </br>
-<img src="/workspaces/up09-lab5-ermoshenko/lab1/imgs/reg_form.png">
+<img src="lab1/imgs/reg_form.png">
  Форма регистрации с полями для ввода логина и пароля с его подтверждением
 <a href="#oglav">В оглавление</a>
 <h2 align="Center" id="login">Страница входа в аккаунт</h2>
 </br>
-<img src="/workspaces/up09-lab5-ermoshenko/lab1/imgs/log-in-form.png">
+<img src="lab1/imgs/log-in-form.png">
  Форма входа с полями для ввода логина и пароля 
 
 
